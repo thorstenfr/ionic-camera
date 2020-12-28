@@ -1,6 +1,6 @@
 # ionic-camera
 1) ionic start ionic-camera blank --type ionic1
-2) npm install @ionic-native/core --save
+2) npm install @ionic-native/core --save (siehe: https://github.com/ionic-team/ionic-native)
 3) ionic cordova build android
 
 # Probleme beim Build
